@@ -1,0 +1,2 @@
+This is a Powershell Script which communicates with the MS Tenant through the tenant ID's and disables everything so that clients are unable to purchase services for themselves us the people in charge utilise it, it cycles so once one has been done it asks for the next tenant ID 
+Make sure you have the tenant ID's and install the MSCommerce addon within powershell you may also do this within the office admin centre
